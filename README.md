@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on my industry-based project<br>👯 I’m looking to collaborate with colleagues<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently reading for B.Sc (Hons.) in Information Technology and Management(UG) University of Moratuwa, Sri Lanka<br>💬 Ask me anything about the technology<br>
+🔭 I’m currently reading for B.Sc (Hons.) in Information Technology and Management in University of Moratuwa, Sri Lanka.<br>🌱 I’m currently working on my industry-based project.<br>🤝 I’m looking for help with my projects<br>📫 How to reach me: see below..<br>
 
 
 ## 🌐 Socials:
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Monali-MST&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
